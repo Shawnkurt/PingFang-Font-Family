@@ -6,7 +6,7 @@
 - MO: 澳
 - SC: 简
 - TC: 繁
-- UI VF: UI Virable
+- UI VF: UI Variable
 
 Forked from [ACT-02/PingFang-for-Windows](https://github.com/ACT-02/PingFang-for-Windows)
 
