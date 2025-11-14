@@ -1,2 +1,12 @@
 # PingFangSC
-为 Windows 适配的苹方字体。  Forked from https://github.com/ACT-02/PingFang-for-Windows
+为 Windows 适配的苹方字体。  
+
+Forked from https://github.com/ACT-02/PingFang-for-Windows
+
+---
+
+HK: 港
+MO: 澳
+SC: 简
+TC: 繁
+UI VF: UI Virable
